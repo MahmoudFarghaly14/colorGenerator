@@ -1,0 +1,12 @@
+.lightColor {
+    color: #fff
+}
+.color {
+    padding: 10px 0;
+    font-family: monospace;
+    
+}
+.color p {
+    cursor: pointer;
+    text-decoration: underline
+}
